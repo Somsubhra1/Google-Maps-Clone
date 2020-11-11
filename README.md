@@ -6,7 +6,7 @@ A Simple Google Maps Clone using MapBox API.
 
 ## Demo
 
-Check out the demo [link](https://somsubhra1.github.io/Google-Maps-Clone).
+Check out the demo [here](https://somsubhra1.github.io/Google-Maps-Clone).
 
 ## License
 
